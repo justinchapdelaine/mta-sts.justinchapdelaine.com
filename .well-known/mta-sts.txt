@@ -2,6 +2,4 @@ version: STSv1
 mode: enforce
 mx: mx01.mail.icloud.com
 mx: mx02.mail.icloud.com
-mx: fwd1.porkbun.com
-mx: fwd2.porkbun.com
-max_age: 604800
+max_age: 1209600
